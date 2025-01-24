@@ -1,3 +1,3 @@
 # demo
 sample git repository
-authom- Mohammad Umar
+author- Mohammad Umar
